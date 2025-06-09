@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Telegram Button
+Plugin URI: https://zimin.dev/
 Description: Adds a floating Telegram button to the site. Admins can set the username from settings.
 Version: 1.0
 Author: Sasha Zimin
 Author URI: https://zimin.dev
-Plugin URI: https://zimin.dev
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: telegram-button-zimindev
