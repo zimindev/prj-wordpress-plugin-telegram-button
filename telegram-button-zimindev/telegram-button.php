@@ -99,7 +99,7 @@ function tb_add_telegram_button() {
             height: 60px;
             bottom: 20px;
             ' . $position_style . '
-            background-color: #0088cc;
+            background-color: #29b6f6;
             color: #FFF;
             border-radius: 50px;
             text-align: center;
@@ -113,7 +113,7 @@ function tb_add_telegram_button() {
         }
         .tb-float:hover {
             transform: scale(1.1);
-            background-color: #0077b5;
+            background-color: #29b6f6;
         }
         .tb-float img {
             width: 32px;
